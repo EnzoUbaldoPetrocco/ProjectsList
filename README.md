@@ -1,5 +1,5 @@
-# ProjectsList
-This repository is linked to my CV and lists most of the projects I participated to. 
+# Projects and Activities
+This repository is linked to my CV and lists most of the projects and activities I participated to. 
 
 ## Projects
 
@@ -22,6 +22,10 @@ This repository is linked to my CV and lists most of the projects I participated
 - [**Software Architectures for Robotics Project**](https://github.com/AlessioRoda/mobile_robot_navigation_project) 🗺️: Project for the *Software Architectures for Robotics* course, involving the implementation of mobile robot navigation. Tools used: Python, C++, and ROS.
 
 - [**Experimental Robotics Lab – Cluedo Game Simulation**](https://github.com/EnzoUbaldoPetrocco/ExperimentalRoboticsLab) 🎲: Designed a multi-agent simulation inspired by the Cluedo game, integrating symbolic reasoning and task planning. Implemented planning logic in PDDL and orchestrated robotic behaviors using ROS (Python and C++).
+
+## Didactic Support
+- **Reti Logiche** (Logic Nets) didactic support. This role included correcting assignments of the students. First semester of 2023 and 2024 years.
+- **Progetto Matricole** (freshmen project). This role included helping freshmen covering basics of mathematics for engineering courses. Academic year 2023/2024.
 
 ## Events, certificates, and others:
 

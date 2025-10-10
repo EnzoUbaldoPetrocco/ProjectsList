@@ -24,8 +24,8 @@ This repository is linked to my CV and lists most of the projects and activities
 - [**Experimental Robotics Lab – Cluedo Game Simulation**](https://github.com/EnzoUbaldoPetrocco/ExperimentalRoboticsLab) 🎲: Designed a multi-agent simulation inspired by the Cluedo game, integrating symbolic reasoning and task planning. Implemented planning logic in PDDL and orchestrated robotic behaviors using ROS (Python and C++).
 
 ## Didactic Support
-- **Reti Logiche** (Logic Nets) didactic support. This role included correcting assignments of the students. First semester of 2023 and 2024 years.
-- **Progetto Matricole** (freshmen project). This role included helping freshmen covering basics of mathematics for engineering courses. Academic year 2023/2024.
+- **Reti Logiche** (Logic Nets) didactic support. This role included correcting assignments of the students. The course included combinatorial and sequential nets and finite state machines. First semester of 2023 and 2024 years.
+- **Progetto Matricole** (freshmen project). This role included helping freshmen covering basics of mathematics for engineering courses. These courses included helping students with analysis I excercises. Academic year 2023/2024.
 
 ## Events, certificates, and others:
 

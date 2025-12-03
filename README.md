@@ -29,6 +29,7 @@ This repository is linked to my CV and lists most of the projects and activities
 
 ## Academic Courses and List of Grades
 ### Ph. D Courses in Robotics and Intelligent Machines at the University of Genova
+
 | Course | Status |
 |---|---|
 | Open Science and Research Data Management | Passed |

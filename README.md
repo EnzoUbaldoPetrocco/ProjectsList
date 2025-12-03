@@ -30,6 +30,7 @@ This repository is linked to my CV and lists most of the projects and activities
 ## Academic Courses and List of Grades
 ### Ph. D Courses in Robotics and Intelligent Machines at the University of Genova
 | Course | Status |
+|---|---|
 | Open Science and Research Data Management | Passed |
 | Topics in Modern Machine Learning | Passed |
 | Paper Writing | Passed |
@@ -42,6 +43,7 @@ This repository is linked to my CV and lists most of the projects and activities
 	
 ### Bachelor in Electronics And Information Technology Engineering at the University of Genova
 | Course | Grade (Maximum 30) |
+|---|---|
 | Year 1 | |
 | Analisi Matematica (Matematical Analysis) | 27 |
 | Elettronica dei Sistemi Digitali (Electronics of Digital Systems) | 28 |
@@ -70,6 +72,7 @@ This repository is linked to my CV and lists most of the projects and activities
 ### Master in Robotics Engineering at the University of Genova
 
 | Course | Grade (Maximum 30) |
+|---|---|
 | Year 1 ||
 | Artificial Intelligence for Robotics  | 30 |
 | Artificial Intelligence for Robotics II | 30 |

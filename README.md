@@ -21,7 +21,7 @@ This repository is linked to my CV and lists most of the projects and activities
 
 - [**Software Architectures for Robotics Project**](https://github.com/AlessioRoda/mobile_robot_navigation_project) 🗺️: Project for the *Software Architectures for Robotics* course, involving the implementation of mobile robot navigation. Tools used: Python, C++, and ROS.
 
-- [**Experimental Robotics Lab – Cluedo Game Simulation**](https://github.com/EnzoUbaldoPetrocco/ExperimentalRoboticsLab) 🎲: Designed a multi-agent simulation inspired by the Cluedo game, integrating symbolic reasoning and task planning. Implemented planning logic in PDDL and orchestrated robotic behaviors using ROS (Python and C++).
+- [**Experimental Robotics Lab – Cluedo Game Simulation**](https://github.com/EnzoUbaldoPetrocco/ExperimentalRoboticsLab) 🎲: Designed a multi-agent simulation inspired by the Cluedo game, integrating symbolic reasoning and task planning. Implemented planning logic in PDDL and orchestrated robotic behaviors using ROS (Python, OpenCV and C++).
 
 ## Didactic Support
 - **Reti Logiche** (Logic Nets) didactic support. This role included correcting assignments of the students. The course included combinatorial and sequential nets and finite state machines. 2023, 2024 and 2025 First Semesters.
@@ -96,6 +96,37 @@ This repository is linked to my CV and lists most of the projects and activities
 | Research Methodology | 28 |
 | System Identification | 27 |
 | Virtual Reality for Robotics | 28 |
+
+## 📰 Publications
+
+* **2025**
+    * **Data Preprocessing for Culturally Competent Machine Learning in Social Robotics.** Petrocco, E. U., Oneto, L., Sgorbissa, A. - In International Workshop IFToMM for Sustainable Development Goals (pp. 166-173). Springer, Cham. [10.1007/978-3-031-91179-8\_18](https://doi.org/10.1007/978-3-031-91179-8_18)
+
+---
+
+* **2024**
+    * **The Impact of Data Augmentation and Oversampling on Cultural Competence in Social Robotics** Petrocco, E. U., Oneto, L., Sgorbissa, A. - I-RIM Conference. [10.5281/zenodo.14730979](https://zenodo.org/records/14730979)
+
+---
+
+* **2024**
+    * **Culturally Competent Machine Learning in Social Robotics** Petrocco, E. U., Oneto, L., Sgorbissa, A. - Trends in Socially Assistive Robotics (TSAR): Human-centered Approach - Workshop of ROMAN Conference in Pasadena.
+
+---
+
+* **2023**
+    * **Culture-Competent Machine Learning in Social Robotics** Petrocco, E. U., Oneto, L., Sgorbissa, A. - I-RIM Conference. [10.5281/zenodo.10722416](https://zenodo.org/records/10722416)
+
+---
+
+* **Waiting for Publication**
+    * **Mitigating Cultural Underrepresentation in Image Classification: A Comparative Study of Data Augmentation Techniques** Petrocco, E. U., Oneto, L., Sgorbissa, A. - I-RIM 2025 Conference
+    * **AI in Venture Capital: Investment Decision-Making and the NoCap Case Study** Perazzo, G. Petrocco, E. U. Sgorbissa, A. Dameri, P. - ItAIS 2025
+
+---
+
+* **Under review**
+    * **Culture in Image Classification: Detecting and Mitigating Cultural Incompetence in Social Robotics** Petrocco, E. U., Oneto, L., Sgorbissa, A. - International Journal Of Social Robotics. Submitted April 2024
  	
 
 ## Events, certificates, and others:

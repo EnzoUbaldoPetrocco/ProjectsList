@@ -51,7 +51,7 @@ This repository is linked to my CV and lists most of the projects and activities
 | -------- | -------- |
 	
 ### Bachelor in Electronics And Information Technology Engineering at the University of Genova
-| Year 1 |
+| Year 1 | |
 | -------- | -------- |
 | Course | Grade (Maximum 30) |
 | -------- | -------- |
@@ -72,7 +72,7 @@ This repository is linked to my CV and lists most of the projects and activities
 | Teoria dei Circuiti (Circuits Theory) | 27 |
 | -------- | -------- |
 | -------- | -------- |
-| Year 2 |
+| Year 2 | |
 | -------- | -------- |
 | Course | Grade (Maximum 30) |
 | -------- | -------- |
@@ -89,7 +89,7 @@ This repository is linked to my CV and lists most of the projects and activities
 | Teoria dei Sistemi (Systems Theory) | 30 |
 | -------- | -------- |
 | -------- | -------- |
-| Year 3 |
+| Year 3 | |
 | -------- | -------- |
 | Course | Grade (Maximum 30) |
 | -------- | -------- |
@@ -110,23 +110,33 @@ This repository is linked to my CV and lists most of the projects and activities
 
 ### Master in Robotics Engineering at the University of Genova
 
-| Year 1 |
+| Year 1 ||
 | -------- | -------- |
 | Course | Grade (Maximum 30) |
 | -------- | -------- |
-Artificial Intelligence for Robotics I	30
-Artificial Intelligence for Robotics II	30
-Control of Linear Multi-Variable Sys.	28
-Mechanical Design Methods in Robotics 	29
-Mechanics of Mechanisms and Machines	29
-Mobile Robots	21
-Modeling and Control of Manipulators	28
-Nonlinear Control Techniques	24
-Real-Time Operating Systems	22
-Research Track I	28
-Research Track II	29
-Software Architectures for Robotics	29
-
+| Artificial Intelligence for Robotics  | 30 |
+| -------- | -------- |
+| Artificial Intelligence for Robotics II | 30 |
+| -------- | -------- |
+| Control of Linear Multi-Variable Sys | 28 |
+| -------- | -------- |
+| Mechanical Design Methods in Robotics | 29 |
+| -------- | -------- |
+| Mechanics of Mechanisms and Machines | 29 |
+| -------- | -------- |
+| Mobile Robots | 21 |
+| -------- | -------- |
+| Modeling and Control of Manipulators | 28 |
+| -------- | -------- |
+| Nonlinear Control Techniques | 24 |
+| -------- | -------- |
+| Real-Time Operating Systems | 22 |
+| -------- | -------- |
+| Research Track I | 28 |
+| -------- | -------- |
+| Research Track II | 29 |
+| -------- | -------- |
+| Software Architectures for Robotics | 29 |
 | -------- | -------- |
 | -------- | -------- |
 | Year 2 |

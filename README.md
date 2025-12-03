@@ -131,7 +131,7 @@ This repository is linked to my CV and lists most of the projects and activities
 
 ## Events, certificates, and others:
 
-- In 2023 and 2024, attended and presented my work at the **I-RIM** Conference in Rome (October).
+- In 2023, 2024 and 2025 attended and presented my work at the **I-RIM** Conference in Rome (October).
 
 - In 2023 and 2024, participant in the **Genova Science Festival** (October).
 
@@ -140,3 +140,12 @@ This repository is linked to my CV and lists most of the projects and activities
 - In 2024, presented research at **RoboValley**, Genoa (April).
 
 - In 2020, obtained the Cambridge English B2 **First** (FCE) Certificate.
+
+- In 2018 obtained Istituto Superiore di Studi in Tecnologie dell'Informazione e della Comunicazione (**ISICT**) certification for higher level education. ISICT certificates that I passed the following exams:
+| Course |  English Translation |
+|---|---|
+| Elaborazione Quantistica dell'Informazione | Quantum Information Processing |
+| Creatività e Innovazione aziendale | Creativity and Corporate Innovation |
+| Teoria dei Giochi | Game Theory |
+| Comunicazione Efficace | Effective Communication |
+

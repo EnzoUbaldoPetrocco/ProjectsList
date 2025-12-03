@@ -5,9 +5,9 @@ This repository is linked to my CV and lists most of the projects and activities
 
 - **Prefoundation startup experience:** Co-developed early-stage concepts and pilot projects at [**PickEat**](https://tech.pickeat.it/), strengthening skills in co-design of front-end and back-end apps using Dart, Flutter, JavaScript, Node.js, and MongoDB.
 
-- [**Flexible Automation Project**](https://github.com/EnzoUbaldoPetrocco/flexible_automation_simulation) 🛠️: Used Lua in CoppeliaSim to simulate a working cell in a manufacturing process.
+- [**Flexible Automation Project**](https://github.com/EnzoUbaldoPetrocco/flexible_automation_simulation) 🛠️: Used Lua and CoppeliaSim to simulate a working cell in a manufacturing process.
 
-- **Research Track [I.1](https://github.com/EnzoUbaldoPetrocco/first_assignment), [I.2](https://github.com/EnzoUbaldoPetrocco/second_assignment), and [II](https://github.com/EnzoUbaldoPetrocco/rt2_assignment1) Projects** 📚: Assignments for *Research Track I* and *II*, involving implementation of core ROS functionality, navigation algorithms, and manipulation tasks. Tools used: Python, C++, and Robot Operating System (ROS).
+- **Research Track [I.1](https://github.com/EnzoUbaldoPetrocco/first_assignment), [I.2](https://github.com/EnzoUbaldoPetrocco/second_assignment), and [II](https://github.com/EnzoUbaldoPetrocco/rt2_assignment1) Projects** 📚: Assignments for *Research Track I* and *II*, involving implementation of core ROS functionality, navigation algorithms, and manipulation tasks. Tools used: Python, C++, and Robot Operating System (ROS/ROS2).
 
 - [**C++ Programming Techniques Project**](https://github.com/EnzoUbaldoPetrocco/C-ProgTechProj) 💻: Coursework for the *C++ Programming Techniques* Ph.D. program course.
 
@@ -24,8 +24,134 @@ This repository is linked to my CV and lists most of the projects and activities
 - [**Experimental Robotics Lab – Cluedo Game Simulation**](https://github.com/EnzoUbaldoPetrocco/ExperimentalRoboticsLab) 🎲: Designed a multi-agent simulation inspired by the Cluedo game, integrating symbolic reasoning and task planning. Implemented planning logic in PDDL and orchestrated robotic behaviors using ROS (Python and C++).
 
 ## Didactic Support
-- **Reti Logiche** (Logic Nets) didactic support. This role included correcting assignments of the students. The course included combinatorial and sequential nets and finite state machines. First semester of 2023 and 2024 years.
+- **Reti Logiche** (Logic Nets) didactic support. This role included correcting assignments of the students. The course included combinatorial and sequential nets and finite state machines. 2023, 2024 and 2025 First Semesters.
 - **Progetto Matricole** (freshmen project). This role included helping freshmen covering basics of mathematics for engineering courses. These courses included helping students with analysis I excercises. Academic year 2023/2024.
+
+## Academic Courses and List of Grades
+### Ph. D Courses in Robotics and Intelligent Machines at the University of Genova
+| Course 1 | Status 2 |
+| -------- | -------- |
+| Open Science and Research Data Management | Passed |
+| -------- | -------- |
+| Topics in Modern Machine Learning | Passed |
+| -------- | -------- |
+| Paper Writing | Passed |
+| -------- | -------- |
+| Effective habits and skills for successful young scientists | Passed |
+| -------- | -------- |
+| C++ programming techniques | Passed |
+| -------- | -------- |
+| Theatrical techniques for Scientific Presentation | Passed |
+| -------- | -------- |
+| Trustworthy Artificial Intelligence | Passed |
+| -------- | -------- |
+| Theory and Practice of Learning from Data | Passed |
+| -------- | -------- |
+| Introduction to Quantum Information for Robotics | Passed |
+| -------- | -------- |
+	
+### Bachelor in Electronics And Information Technology Engineering at the University of Genova
+| Year 1 |
+| -------- | -------- |
+| Course | Grade (Maximum 30) |
+| -------- | -------- |
+| Analisi Matematica (Matematical Analysis) | 27 |
+| -------- | -------- |
+| Elettronica dei Sistemi Digitali (Electronics of Digital Systems) | 28 |
+| -------- | -------- |
+| Fisica Generale (Physics) | 30 |
+| -------- | -------- |
+| Fondamenti di Programmazione di Sistemi Elettronici (Fundamentals of Electronic Systems Programming) | 24 |
+| -------- | -------- |
+| Geometria (Geometry) | 30 |
+| -------- | -------- |
+| Lingua Inglese (English Language) | Superato (Passed) |
+| -------- | -------- |
+| Telematica e Tecnologie Internet (Telematics and Internet Technologies) | 30 |
+| -------- | -------- |
+| Teoria dei Circuiti (Circuits Theory) | 27 |
+| -------- | -------- |
+| -------- | -------- |
+| Year 2 |
+| -------- | -------- |
+| Course | Grade (Maximum 30) |
+| -------- | -------- |
+| Campi Elettromagnetici (Electromagnetics Fields) | 30 |
+| -------- | -------- |
+| Elettronica (Electronics) | 27 |
+| -------- | -------- |
+| Laboratorio di Informatica e Telematica & Architetture dei Sistemi Elettronici (Computer Science Laboratory and Telematics & Electronic Systems Architecture) | 26 |
+| -------- | -------- |
+| Metodi Matematici per L’Ingegneria (Mathematical Methods for Engineering) | 27 |
+| -------- | -------- |
+| Segnali e Sistemi per le Telecomunicazioni (Signals and Systems for Telecommunications) | 22 |
+| -------- | -------- |
+| Teoria dei Sistemi (Systems Theory) | 30 |
+| -------- | -------- |
+| -------- | -------- |
+| Year 3 |
+| -------- | -------- |
+| Course | Grade (Maximum 30) |
+| -------- | -------- |
+| APP Multimediali e Internet del Future (Multimedia Apps and the Internet of the Future) | 29 |
+| -------- | -------- |
+| Approccio Makers alla Progettazione Elettronica (Makers' Approach to Electronic Design) | 30 e Lode (and Honors) |
+| -------- | -------- |
+| Basi di Dati (Databases) | 23 |
+| -------- | -------- |
+| Controlli Automatici (Automatic Controls) | 27 |
+| -------- | -------- |
+| Elaborazione e Trasmissione di Segnali e Immagini (Processing and Transmission of Signals and Images) | 22 |
+| -------- | -------- |
+| Gestione Aziendale (Business Management) | 20 |
+| -------- | -------- |
+| Sistemi Elettronici Embedded (Embedded Electronic Systems) | 29 |
+| -------- | -------- |
+
+### Master in Robotics Engineering at the University of Genova
+
+| Year 1 |
+| -------- | -------- |
+| Course | Grade (Maximum 30) |
+| -------- | -------- |
+Artificial Intelligence for Robotics I	30
+Artificial Intelligence for Robotics II	30
+Control of Linear Multi-Variable Sys.	28
+Mechanical Design Methods in Robotics 	29
+Mechanics of Mechanisms and Machines	29
+Mobile Robots	21
+Modeling and Control of Manipulators	28
+Nonlinear Control Techniques	24
+Real-Time Operating Systems	22
+Research Track I	28
+Research Track II	29
+Software Architectures for Robotics	29
+
+| -------- | -------- |
+| -------- | -------- |
+| Year 2 |
+| -------- | -------- |
+| Course | Grade (Maximum 30) |
+| -------- | -------- |
+| Cooperative Robotics | Grade (Maximum 30) |
+| -------- | -------- |
+| Course | 29 |
+| -------- | -------- |
+| Embedded Systems | 30 |
+| -------- | -------- |
+| Experimental Robotics Laboratory | 29 |
+| -------- | -------- |
+| Flexible Automation | 29) |
+| -------- | -------- |
+| Machine Learning for Robotics | 30 e Lode (and Honors) |
+| -------- | -------- |
+| Research Methodology | 28 |
+| -------- | -------- |
+| System Identification | 27 |
+| -------- | -------- |
+| Virtual Reality for Robotics | 28 |
+| -------- | -------- |
+ 	
 
 ## Events, certificates, and others:
 

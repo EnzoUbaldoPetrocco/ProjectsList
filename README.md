@@ -142,7 +142,7 @@ This repository is linked to my CV and lists most of the projects and activities
 - In 2020, obtained the Cambridge English B2 **First** (FCE) Certificate.
 
 - In 2018 obtained Istituto Superiore di Studi in Tecnologie dell'Informazione e della Comunicazione (**ISICT**) certification for higher level education. ISICT certificates that I passed the following exams:
-| Course |  English Translation |
+| Course | English Translation |
 |---|---|
 | Elaborazione Quantistica dell'Informazione | Quantum Information Processing |
 | Creatività e Innovazione aziendale | Creativity and Corporate Innovation |

@@ -29,138 +29,70 @@ This repository is linked to my CV and lists most of the projects and activities
 
 ## Academic Courses and List of Grades
 ### Ph. D Courses in Robotics and Intelligent Machines at the University of Genova
-| Course 1 | Status 2 |
-| -------- | -------- |
+| Course | Status |
 | Open Science and Research Data Management | Passed |
-| -------- | -------- |
 | Topics in Modern Machine Learning | Passed |
-| -------- | -------- |
 | Paper Writing | Passed |
-| -------- | -------- |
 | Effective habits and skills for successful young scientists | Passed |
-| -------- | -------- |
 | C++ programming techniques | Passed |
-| -------- | -------- |
 | Theatrical techniques for Scientific Presentation | Passed |
-| -------- | -------- |
 | Trustworthy Artificial Intelligence | Passed |
-| -------- | -------- |
 | Theory and Practice of Learning from Data | Passed |
-| -------- | -------- |
 | Introduction to Quantum Information for Robotics | Passed |
-| -------- | -------- |
 	
 ### Bachelor in Electronics And Information Technology Engineering at the University of Genova
+| Course | Grade (Maximum 30) |
 | Year 1 | |
-| -------- | -------- |
-| Course | Grade (Maximum 30) |
-| -------- | -------- |
 | Analisi Matematica (Matematical Analysis) | 27 |
-| -------- | -------- |
 | Elettronica dei Sistemi Digitali (Electronics of Digital Systems) | 28 |
-| -------- | -------- |
 | Fisica Generale (Physics) | 30 |
-| -------- | -------- |
 | Fondamenti di Programmazione di Sistemi Elettronici (Fundamentals of Electronic Systems Programming) | 24 |
-| -------- | -------- |
 | Geometria (Geometry) | 30 |
-| -------- | -------- |
 | Lingua Inglese (English Language) | Superato (Passed) |
-| -------- | -------- |
 | Telematica e Tecnologie Internet (Telematics and Internet Technologies) | 30 |
-| -------- | -------- |
 | Teoria dei Circuiti (Circuits Theory) | 27 |
-| -------- | -------- |
-| -------- | -------- |
 | Year 2 | |
-| -------- | -------- |
-| Course | Grade (Maximum 30) |
-| -------- | -------- |
 | Campi Elettromagnetici (Electromagnetics Fields) | 30 |
-| -------- | -------- |
 | Elettronica (Electronics) | 27 |
-| -------- | -------- |
 | Laboratorio di Informatica e Telematica & Architetture dei Sistemi Elettronici (Computer Science Laboratory and Telematics & Electronic Systems Architecture) | 26 |
-| -------- | -------- |
 | Metodi Matematici per L’Ingegneria (Mathematical Methods for Engineering) | 27 |
-| -------- | -------- |
 | Segnali e Sistemi per le Telecomunicazioni (Signals and Systems for Telecommunications) | 22 |
-| -------- | -------- |
 | Teoria dei Sistemi (Systems Theory) | 30 |
-| -------- | -------- |
-| -------- | -------- |
 | Year 3 | |
-| -------- | -------- |
-| Course | Grade (Maximum 30) |
-| -------- | -------- |
 | APP Multimediali e Internet del Future (Multimedia Apps and the Internet of the Future) | 29 |
-| -------- | -------- |
 | Approccio Makers alla Progettazione Elettronica (Makers' Approach to Electronic Design) | 30 e Lode (and Honors) |
-| -------- | -------- |
 | Basi di Dati (Databases) | 23 |
-| -------- | -------- |
 | Controlli Automatici (Automatic Controls) | 27 |
-| -------- | -------- |
 | Elaborazione e Trasmissione di Segnali e Immagini (Processing and Transmission of Signals and Images) | 22 |
-| -------- | -------- |
 | Gestione Aziendale (Business Management) | 20 |
-| -------- | -------- |
 | Sistemi Elettronici Embedded (Embedded Electronic Systems) | 29 |
-| -------- | -------- |
 
 ### Master in Robotics Engineering at the University of Genova
 
+| Course | Grade (Maximum 30) |
 | Year 1 ||
-| -------- | -------- |
-| Course | Grade (Maximum 30) |
-| -------- | -------- |
 | Artificial Intelligence for Robotics  | 30 |
-| -------- | -------- |
 | Artificial Intelligence for Robotics II | 30 |
-| -------- | -------- |
 | Control of Linear Multi-Variable Sys | 28 |
-| -------- | -------- |
 | Mechanical Design Methods in Robotics | 29 |
-| -------- | -------- |
 | Mechanics of Mechanisms and Machines | 29 |
-| -------- | -------- |
 | Mobile Robots | 21 |
-| -------- | -------- |
 | Modeling and Control of Manipulators | 28 |
-| -------- | -------- |
 | Nonlinear Control Techniques | 24 |
-| -------- | -------- |
 | Real-Time Operating Systems | 22 |
-| -------- | -------- |
 | Research Track I | 28 |
-| -------- | -------- |
 | Research Track II | 29 |
-| -------- | -------- |
 | Software Architectures for Robotics | 29 |
-| -------- | -------- |
-| -------- | -------- |
 | Year 2 |
-| -------- | -------- |
-| Course | Grade (Maximum 30) |
-| -------- | -------- |
 | Cooperative Robotics | Grade (Maximum 30) |
-| -------- | -------- |
 | Course | 29 |
-| -------- | -------- |
 | Embedded Systems | 30 |
-| -------- | -------- |
 | Experimental Robotics Laboratory | 29 |
-| -------- | -------- |
 | Flexible Automation | 29) |
-| -------- | -------- |
 | Machine Learning for Robotics | 30 e Lode (and Honors) |
-| -------- | -------- |
 | Research Methodology | 28 |
-| -------- | -------- |
 | System Identification | 27 |
-| -------- | -------- |
 | Virtual Reality for Robotics | 28 |
-| -------- | -------- |
  	
 
 ## Events, certificates, and others:

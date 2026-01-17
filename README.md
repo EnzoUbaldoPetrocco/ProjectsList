@@ -3,7 +3,7 @@ This repository is linked to my CV and lists most of the projects and activities
 
 ## Projects
 
-- **Prefoundation startup experience:** Co-developed early-stage concepts and pilot projects at [**PickEat**](https://tech.pickeat.it/), strengthening skills in co-design of front-end and back-end apps using Dart, Flutter, JavaScript, Node.js, and MongoDB.
+- **Prefoundation startup experience:** Co-developed early-stage concepts and pilot projects at [**PickEat**](https://pickeat.it/), strengthening skills in co-design of front-end and back-end apps using Dart, Flutter, JavaScript, Node.js, and MongoDB.
 
 - [**Flexible Automation Project**](https://github.com/EnzoUbaldoPetrocco/flexible_automation_simulation) 🛠️: Used Lua and CoppeliaSim to simulate a working cell in a manufacturing process.
 

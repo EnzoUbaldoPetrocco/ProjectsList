@@ -3,7 +3,7 @@ This repository is linked to my CV and lists the projects and activities I parti
 
 ## Projects
 
-- **Chatbot Assistant Development for Retail** - Huware, Milan - Providing information and recommendation about products and services. Multimodal integration.
+- [**Chatbot Assistant Development for Retail**](https://huware.com/case-study/unieuro-customer-experience-generative-ai/) - Huware, Milan - Providing information and recommendation about products and services. Multimodal integration.
 - - Tools: Python, Gemini Enterprise for Customer Experience, Agent Search, BigQuery, Cloud Run, Docker, Javascript, Nodejs, Google Cloud Platform
     
 - **Order Entry Agents Development for Retail** - Huware, Milan. Generation of Salesforce Opportunities through email analyses and Database grounding. Dynamic business rule implementation enabling operator to optimize prompts.

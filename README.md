@@ -3,7 +3,15 @@ This repository is linked to my CV and lists most of the projects and activities
 
 ## Projects
 
+- **Chatbot Assistant Development for Retail** - Huware, Milan - Providing information and recommendation about products and services. Multimodal integration.
+- - Tools: Python, Gemini Enterprise for Customer Experience, Agent Search, BigQuery, Cloud Run, Docker, Javascript, Nodejs, Google Cloud Platform
+    
+- **Order Entry Agents Development for Retail** - Huware, Milan. Generation of Salesforce Opportunities through email analyses and Database grounding. Dynamic business rule implementation enabling operator to optimize prompts.
+- - Tools: Python, ADK, n8n, Google Cloud Storage, Google Cloud SQL, Cloud Run
+
 - **Prefoundation startup experience:** Co-developed early-stage concepts and pilot projects at [**PickEat**](https://pickeat.it/), strengthening skills in co-design of front-end and back-end apps using Dart, Flutter, JavaScript, Node.js, and MongoDB.
+
+## Academic Projects
 
 - [**Flexible Automation Project**](https://github.com/EnzoUbaldoPetrocco/flexible_automation_simulation) 🛠️: Used Lua and CoppeliaSim to simulate a working cell in a manufacturing process.
 

@@ -1,5 +1,5 @@
 # Projects and Activities
-This repository is linked to my CV and lists most of the projects and activities I participated to. 
+This repository is linked to my CV and lists the projects and activities I participated to. 
 
 ## Projects
 
@@ -136,10 +136,19 @@ This repository is linked to my CV and lists most of the projects and activities
 
 * **Under review**
     * **Culture in Image Classification: Detecting and Mitigating Cultural Incompetence in Social Robotics** Petrocco, E. U., Oneto, L., Sgorbissa, A. - International Journal Of Social Robotics. Submitted April 2024
+ 
+
  	
 
 ## Events, certificates, and others:
 
+### Googles' Skills Badge and Certificates
+
+- In 2026 Engineer Data for Predictive Modeling with BigQuery ML Skill Badge
+- 
+- In 2026 Deploy, monitor and evaluate production-ready CX Agents
+
+### Conferences and Fairs
 - In 2023, 2024 and 2025 attended and presented my work at the **I-RIM** Conference in Rome (October).
 
 - In 2023 and 2024, participant in the **Genova Science Festival** (October).
@@ -147,6 +156,8 @@ This repository is linked to my CV and lists most of the projects and activities
 - In 2023 and 2024, participant and exhibitor at **Maker Faire** Rome (October).
 
 - In 2024, presented research at **RoboValley**, Genoa (April).
+
+### Other certificates
 
 - In 2020, obtained the Cambridge English B2 **First** (FCE) Certificate.
 
@@ -157,5 +168,5 @@ This repository is linked to my CV and lists most of the projects and activities
 |Elaborazione Quantistica dell'Informazione|Quantum Information Processing|
 |Creatività e Innovazione aziendale|Creativity and Corporate Innovation|
 |Teoria dei Giochi|Game Theory|
- Comunicazione Efficace|Effective Communication|
+|Comunicazione Efficace|Effective Communication|
 

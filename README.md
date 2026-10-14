@@ -144,8 +144,8 @@ This repository is linked to my CV and lists the projects and activities I parti
 
 ### Googles' Skills Badge and Certificates
 
+- In 2026 Google's Professional Machine Learning Engineer
 - In 2026 Engineer Data for Predictive Modeling with BigQuery ML Skill Badge
-- 
 - In 2026 Deploy, monitor and evaluate production-ready CX Agents
 
 ### Conferences and Fairs
